@@ -1,0 +1,56 @@
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.exe
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.deps.json
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.runtimeconfig.json
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\ref\Proiect.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.pdb
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.AssemblyReference.cache
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Autostrazi.FormAddAutostrada.resources
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Autostrazi.FormAutostrada.resources
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.FormMain.resources
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Autostrazi.frmLogin.resources
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.GenerateResource.cache
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.AssemblyInfoInputs.cache
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.AssemblyInfo.cs
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.CoreCompileInputs.cache
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.CopyComplete
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\ref\Proiect.dll
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.pdb
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.genruntimeconfig.cache
+D:\Geo\EAV\Laborator8\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.FormInLucru.resources
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.exe
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.deps.json
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.runtimeconfig.json
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\Proiect.pdb
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.AssemblyReference.cache
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Autostrazi.FormAddAutostrada.resources
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Autostrazi.FormAutostrada.resources
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.FormInLucru.resources
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.FormMain.resources
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Autostrazi.frmLogin.resources
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.GenerateResource.cache
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.AssemblyInfoInputs.cache
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.AssemblyInfo.cs
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.csproj.CopyComplete
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\refint\Proiect.dll
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.pdb
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\Proiect.genruntimeconfig.cache
+C:\Users\Georgiana Dumitru\Desktop\C++\Proiect\Proiect\obj\Debug\net6.0-windows\ref\Proiect.dll
